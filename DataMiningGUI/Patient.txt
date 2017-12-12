@@ -1,0 +1,9 @@
+Jane Doe;
+23;
+F;
+123 Fake Lane, Plattsburgh, NY 12901;
+
+Benadryl, Tylenol, Advil;
+5, 8, 11;
+
+Sprained ankle;
